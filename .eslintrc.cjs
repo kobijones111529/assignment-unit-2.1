@@ -8,6 +8,7 @@ module.exports = {
     ecmaVersion: 'latest'
   },
   rules: {
-    semi: ['warn', 'always']
+    semi: ['warn', 'always'],
+    'no-unused-vars': 'off'
   }
 };
