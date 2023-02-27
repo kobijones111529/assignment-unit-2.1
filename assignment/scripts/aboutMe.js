@@ -103,7 +103,7 @@ switch (luckyNumber) {
     console.log('17.', 'Third is the one with the polka dot dress');
     break;
   default:
-    console.log('17.', 'Luck is what happens when preperation meets opportunity');
+    console.log('17.', 'Luck is what happens when preparation meets opportunity');
     break;
 }
 
